@@ -1,3 +1,4 @@
+
 body{
   background: -webkit-linear-gradient(315deg, rgb(29, 33, 36) 1%,rgb(10,8,6) 100%);
   background: -moz-linear-gradient(315deg, rgb(29, 33, 36) 1%,rgb(10,8,6) 100%);
@@ -7,10 +8,10 @@ body{
 
 body,
 .card__vote{
-  color: #cedfdc;
+  color: #cedadf;
 }
 body.black--style {
-  background: #111920;
+  background: #201911;
 }
 
 .menu__item.focus, 
@@ -78,14 +79,14 @@ background: linear-gradient(135deg, rgb(20, 26, 27) 1%,rgb(10,8,6) 100%);
 .torrent-item__exe,
 .torrent-item__viewed,
 .torrent-serial__size{
-  background-color: #cedfde;
+  background-color: #cedddf;
   color: #000;
 }
 
 .torrent-serial{
-  background-color: rgba(206, 223, 223, 0.1);
+  background-color: rgba(223,217,206,0.1);
 }
 .torrent-file.focus,
 .torrent-serial.focus{
-  background-color: rgba(206, 223, 221, 0.36);
+  background-color: rgba(206, 223, 223, 0.36);
 }
